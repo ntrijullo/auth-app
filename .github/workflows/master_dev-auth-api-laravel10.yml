@@ -52,5 +52,5 @@ jobs:
           package: .
           publish-profile: >-
             ${{
-            secrets.AzureAppService_PublishProfile_38e0e5678e134325924c209fdb0949e3
+            secrets.AzureAppService_PublishProfile
             }}
